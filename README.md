@@ -6,7 +6,7 @@
 
 #### Inicial um repo
 
-##### Inicial o git
+#### Inicial o git
 
 ```
 git init
@@ -29,3 +29,9 @@ git init
 ```
 git push
 ```
+
+#### Usar sempre para atualizar
+
+git add .
+git commit -m updated
+git push
